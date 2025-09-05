@@ -24,17 +24,17 @@
         或者直接运行**main.py**文件，没有报错则成功，报错则失败
     
 - 不依赖Python
-    - 下载地址：[**ITM**](https://github.com/XiaoMo-Code/Image-To-MCFunction/releases/tag/itm)
+    - 下载地址：[**ITM**](https://release-assets.githubusercontent.com/github-production-release-asset/1051150364/c7c0304e-991e-4084-9b38-a109c76d6874?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-09-05T15%3A27%3A50Z&rscd=attachment%3B+filename%3Dv7.0.1-ITM7.0-alpha.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-09-05T14%3A27%3A11Z&ske=2025-09-05T15%3A27%3A50Z&sks=b&skv=2018-11-09&sig=etf1NNohsNynzl81YSHkXd08lrBT5zCpP24gsQNSISs%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1NzA4Mjc0NywibmJmIjoxNzU3MDgyNDQ3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.sxrSNUg8ssj87rsjVdHav9nlBQvlQT4SxIh3bIlxcb8&response-content-disposition=attachment%3B%20filename%3Dv7.0.1-ITM7.0-alpha.exe&response-content-type=application%2Foctet-stream)
 
         直接运行**main.exe**文件，只能在windows上执行，Win7及以下不支持
 
 - 打开**main.exe**文件
     - 界面
         界面如下：
-        ![深色模式](https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/dark_InterFace.png)
+        ![深色模式](https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/main/textures/dark_InterFace.png)
     - 菜单
         你在它的非输入部分右键会打开菜单，菜单如下：
-        ![菜单](https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/menu.png)
+        ![菜单](https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/main/textures/menu.png)
         - 色系切换
 
             点击菜单上的颜色模式可以切换色系，有深色模式和浅色模式
@@ -109,19 +109,19 @@
         - 名字：**Feeling**
         - 头像：
         
-            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/FeelWX.png" width=100 height=100 />
+            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/main/textures/FeelWX.png" width=100 height=100 />
     - QQ：**2679711232**
         - 名字：**枫**
         - 头像：
 
-            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/FeelQQ.png" width=100 height=100 />
+            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/main/textures/FeelQQ.png" width=100 height=100 />
 - 优化、UI
     - 开发者：<font color="pink">**Peach**</font>
     - QQ：**1096591237**
         - 名字：**ᴸᵒᵛᵉ桃**
         - 头像：
                     
-            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/PeachQQ.png" width=100 height=100 />
+            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/main/textures/PeachQQ.png" width=100 height=100 />
 - 关于**ITM**
     - 项目地址：[**ITM**](https://github.com/XiaoMo-Code/Image-To-MCFunction)
     - 项目介绍：这是一个可以把图像转换为MCFunction的工具，你可以自定义图像的比例以及一些其他的参数
