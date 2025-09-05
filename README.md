@@ -31,10 +31,10 @@
 - 打开**main.exe**文件
     - 界面
         界面如下：
-        ![深色模式](https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/itm/textures/dark_InterFace.png)
+        ![深色模式](https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/dark_InterFace.png)
     - 菜单
         你在它的非输入部分右键会打开菜单，菜单如下：
-        ![菜单](https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/itm/textures/menu.png)
+        ![菜单](https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/menu.png)
         - 色系切换
 
             点击菜单上的颜色模式可以切换色系，有深色模式和浅色模式
@@ -109,19 +109,19 @@
         - 名字：**Feeling**
         - 头像：
         
-            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/main/textures/FeelWX.png" width=100 height=100 />
+            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/FeelWX.png" width=100 height=100 />
     - QQ：**2679711232**
         - 名字：**枫**
         - 头像：
 
-            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/main/textures/FeelQQ.png" width=100 height=100 />
+            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/FeelQQ.png" width=100 height=100 />
 - 优化、UI
     - 开发者：<font color="pink">**Peach**</font>
     - QQ：**1096591237**
         - 名字：**ᴸᵒᵛᵉ桃**
         - 头像：
                     
-            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/blob/main/textures/PeachQQ.png" width=100 height=100 />
+            <img src="https://github.com/XiaoMo-Code/Image-To-MCFunction/tree/main/textures/PeachQQ.png" width=100 height=100 />
 - 关于**ITM**
     - 项目地址：[**ITM**](https://github.com/XiaoMo-Code/Image-To-MCFunction)
     - 项目介绍：这是一个可以把图像转换为MCFunction的工具，你可以自定义图像的比例以及一些其他的参数
